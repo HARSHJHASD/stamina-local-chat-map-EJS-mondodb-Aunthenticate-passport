@@ -1,0 +1,19 @@
+{
+  "name": "stmaina-ejs",
+  "version": "1.0.0",
+  "description": "stamina is a fitness website or portal for those who loves fitness or have an aim",
+  "main": "app.js",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "ejs": "^3.1.3",
+    "express": "^4.17.1",
+    "node-sass": "^4.14.1",
+    "nodemon": "^2.0.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
