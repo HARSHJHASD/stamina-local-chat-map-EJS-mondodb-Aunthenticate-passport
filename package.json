@@ -27,5 +27,15 @@
   "license": "ISC",
   "engines": {
     "node": "16.13.2"
-}
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HARSHJHASD/stamina-local-chat-map-EJS-mondodb-Aunthenticate-passport.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/HARSHJHASD/stamina-local-chat-map-EJS-mondodb-Aunthenticate-passport/issues"
+  },
+  "homepage": "https://github.com/HARSHJHASD/stamina-local-chat-map-EJS-mondodb-Aunthenticate-passport#readme"
 }
